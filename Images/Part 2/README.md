@@ -1,1 +1,1 @@
-The application after completing part 2 of the project(2D) which is to find the nearest node depending on the position clicked which has atleast one neighbour.
+The application after completing part 2 of the project(2D) finds the nearest node depending on the position clicked which has atleast one neighbour and the starter code uses the above code to find the shortest path between two points by A* algorithm.

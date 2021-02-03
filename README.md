@@ -1,6 +1,6 @@
 # BearMaps
 
-This project is my solution of the bearmaps project of UC berkeley's 61B.
+This project is my solution to the bearmaps project of UC berkeley's CS 61B.
 
 
 Sites:    

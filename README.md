@@ -15,5 +15,6 @@ http://fa20.datastructur.es/materials/proj/proj2d/proj2d
 
 
 Note:
-The code for project 2Dis not optimized as per the recommended requirements.
-The code is not checked by the autograder but it was able to pass every given test in the skeleton code locally.
+The code for project 2D is not optimized as per the recommended requirements.
+
+The code is also not checked by the autograder but it was able to pass every given test in the skeleton code locally.

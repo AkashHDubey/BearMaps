@@ -1,1 +1,1 @@
-Some screenshots of the finished products (only the first two parts).
+Some screenshots of the finished application (only the first two parts).

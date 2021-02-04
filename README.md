@@ -2,6 +2,8 @@
 
 This project is my solution to the bearmaps project of UC berkeley's CS 61B.
 
+The app has been deployed!!!!!   
+http://bearmaps-ahd.herokuapp.com   
 
 Sites:    
 http://fa20.datastructur.es/materials/proj/proj2ab/proj2ab            

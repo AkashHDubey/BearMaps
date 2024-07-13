@@ -3,7 +3,7 @@
 
 This project is my solution to the bearmaps project of UC berkeley's CS 61B.
 
-The app has been deployed!!!!!   
+<del>The app has been deployed!!!!!</del>   
 http://bearmaps-ahd.herokuapp.com   
 
 Sites:    

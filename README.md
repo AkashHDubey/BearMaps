@@ -4,7 +4,7 @@
 This project is my solution to the bearmaps project of UC berkeley's CS 61B.
 
 <del>The app has been deployed!!!!!</del>   
-<del>http://bearmaps-ahd.herokuapp.com</del>   
+<a href="#"><del>http://bearmaps-ahd.herokuapp.com</del></a>   
 
 Sites:    
 http://fa20.datastructur.es/materials/proj/proj2ab/proj2ab            
